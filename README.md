@@ -1,6 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GirlRippa</title>
+	<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+
 <body>
 <div id="interface">
-
 	<header id="cabecalho">
 	<hgroup>
 	<h1>Girl Rippa</h1>
